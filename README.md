@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **maryammagy@gmail.com **
 
-- ⚡ Fun fact :
+- ⚡ Fun fact : <br>
 Running 🏃‍♀️, Camping 🏕️, Nature 🌲 are the reasons to live.
 
 #
