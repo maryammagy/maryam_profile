@@ -32,5 +32,8 @@ Running 🏃‍♀️, Camping 🏕️, Nature 🌲 are the reasons to live.
       width="40" height="40" /> </a> 
       <a href="https://opencv.org" target="_blank" rel="noreferrer"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="sass" width="40"
-      height="40" /> </a></p>
+      height="40" /> </a> 
+      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="sass" width="40"
+      height="40" /> </a></p></p>
 
