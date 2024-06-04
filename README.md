@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amir (Henry) Samson</h1>
-<h3 align="center">QA Enginner at ICE GLOBAL🌟.</h3>
+<h1 align="center">Hi 👋, I'm Maryam Maghsoudi</h1>
+<h3 align="center">Data Analyst at Snapp!🚗.</h3>
 
 <br>
 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Python and ML while utilizing TypeScript for Automation tests both on Web and Backend services.
 
-- 📫 How to reach me **amirhsamson@gmail.com**
+- 📫 How to reach me **maryammagy@gmail.co **
 - My <a href="https://amirsamson.github.io/">website<a/> (which I created myself using HTML on github.io). You can learn more about me on that webpage.
 
 - ⚡ Fun fact :
