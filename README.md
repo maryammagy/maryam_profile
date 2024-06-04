@@ -10,13 +10,12 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Python and ML while utilizing TypeScript for Automation tests both on Web and Backend services.
+- 🌱 I am a computer vision enthusiast aiming to pursue a degree in the field of medical image analysis.
 
-- 📫 How to reach me **maryammagy@gmail.co **
-- My <a href="https://amirsamson.github.io/">website<a/> (which I created myself using HTML on github.io). You can learn more about me on that webpage.
+- 📫 How to reach me **maryammagy@gmail.com **
 
 - ⚡ Fun fact :
-Food, Calsithenics, Books, Guitar and Music🎵 are the reasons to live.
+Running 🏃‍♀️, Camping 🏕️, Nature 🌲 are the reasons to live.
 
 #
 
