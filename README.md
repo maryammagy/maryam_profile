@@ -37,9 +37,12 @@ Running 🏃‍♀️, Camping 🏕️, Nature 🌲 are the reasons to live.
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="sass" width="40"
       height="40" /> </a>
       <a href="https://clickhouse.com" target="_blank" rel="noreferrer"> 
-      <img src="https://asset.brandfetch.io/idnezyZEJm/idHUH2DfP2.svg" alt="sass" width="40"
-      height="40" /> </a>
+      <img src="https://asset.brandfetch.io/idnezyZEJm/idHUH2DfP2.svg" alt="sass" width="50"
+      height="50" /> </a>
       <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="sass" width="40"
-      height="40" /> </a></p>
+      height="40" /> </a>
+      <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sass" width="50"
+      height="50" /> </a></p>
 
