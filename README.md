@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maryam Maghsoudi</h1>
-<h3 align="center">Data Analyst at Snapp!🚗.</h3>
+<h3 align="center">Data Analyst at Snapp!🚗</h3>
 
 <br>
 
