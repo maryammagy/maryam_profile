@@ -13,7 +13,7 @@
 - 🌱 I am a computer vision enthusiast aiming to pursue a degree in the field of medical image analysis.
 
 - 📫 How to reach me **maryammagy@gmail.com **
-
+- 👩🏻‍💻 My [Portfolio](https://github.com/maryammagy/Portfolio) 
 - ⚡ Fun fact : <br>
 Running 🏃‍♀️, Camping 🏕️, Nature 🌲 are the reasons to live.
 
